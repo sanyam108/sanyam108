@@ -1,5 +1,3 @@
-![Sanyam's GitHub Banner]
-
 ![Visits](https://visitor-badge.laobi.icu/badge?page_id=sanyam108.sanyam108)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/sanyam-ahuja-039884192/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=blue)](https://twitter.com/sanyam_ahuja)
