@@ -5,7 +5,7 @@
 
 ## Heya Fellas! 👋
 
-I'm Sanyam, a Sophomore 🧑‍🎓 at Netaji Subhas University of Technology, Delhi (NSUT). 
+I'm Sanyam, a Junior 🧑‍🎓 at Netaji Subhas University of Technology, Delhi (NSUT). 
 <br>
 <br>
 Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
